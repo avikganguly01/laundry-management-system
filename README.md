@@ -13,3 +13,7 @@ A view of the landing dashboard (Note :- There is no separation of roles/privile
 
 ![image](docs/dashboard.png)
 
+A sample database dump for import is provided in the docs folder.
+
+The scripts by default contain mysql as password. You need to change it to support your mysql installation.
+
